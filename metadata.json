@@ -1,0 +1,5 @@
+{
+  "name": "NetGuard: DDoS Simulator",
+  "description": "An educational visualization tool demonstrating Distributed Denial of Service (DDoS) attack mechanics, server load impact, and mitigation strategies powered by Gemini.",
+  "requestFramePermissions": []
+}
